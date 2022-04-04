@@ -5,7 +5,7 @@
 - reach me.
 - 🧑‍💼I am a Jr. Web Developer @ Devopie Inc.
 - 📫 You can reach me bhattharshal10@gmail.com.
-- I will be poisting my previous projects and current projects here as I lost the password to my school account.
+- I will be posting my previous projects and current projects here as I lost the password to my school account.
 
 <!---
 bhattharshal04/bhattharshal04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
