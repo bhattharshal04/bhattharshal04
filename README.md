@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bhattharshal04
 - 👀 I’m interested in extending my coding skills and build on what I have learnt from a Degree.
 - 🌱 I’m currently learning front end skills and tools.
-- 💞️ I’m currently dont have anything to collaborate but soon I am looking to start a really awsome project[Android Application] If interested, you know where to 
-- reach me.
+- 💞️ I’m currently dont have anything to collaborate but soon I am looking to start a really awsome project[Android Application] If anyone is interested, you know where to reach me.
 - 🧑‍💼I am a Jr. Web Developer @ Devopie Inc.
 - 📫 You can reach me bhattharshal10@gmail.com.
 - I will be posting my previous projects and current projects here as I lost the password to my school account.
